@@ -16,7 +16,7 @@
     "@solid-primitives/scheduled": "^1.4.2",
     "@solidjs/router": "^0.10.3",
     "@tanstack/solid-query": "^5.24.1",
-    "@tauri-apps/api": ">=2.0.0-beta.0",
+    "@tauri-apps/api": ">=2.0.0-beta.16",
     "@tauri-apps/plugin-os": "2.0.0-beta.1",
     "axios": "^1.6.5",
     "clsx": "^2.0.0",
