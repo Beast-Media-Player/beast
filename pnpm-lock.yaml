@@ -139,8 +139,8 @@ importers:
         specifier: ^29.5.0
         version: 29.7.0(@types/node@20.11.16)(ts-node@10.9.2)
       nestia:
-        specifier: ^5.3.0
-        version: 5.3.0
+        specifier: ^6.0.1
+        version: 6.0.1
       prettier:
         specifier: ^3.2.5
         version: 3.2.5
@@ -459,8 +459,8 @@ importers:
         specifier: ^29.5.0
         version: 29.7.0(@types/node@20.11.16)(ts-node@10.9.2)
       nestia:
-        specifier: ^5.3.0
-        version: 5.3.0
+        specifier: ^6.0.1
+        version: 6.0.1
       prettier:
         specifier: ^3.2.5
         version: 3.2.5
@@ -8289,8 +8289,8 @@ packages:
   /neo-async@2.6.2:
     resolution: {integrity: sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==}
 
-  /nestia@5.3.0:
-    resolution: {integrity: sha512-1xtpWDer2r3IVbfP7tUlYqO1ocQ6oKyA80s0fbXTX0lgnUZCZBlYVmYbnzF/FsLDpKyfvF+ZJEGsZsRcUZ4aiA==}
+  /nestia@6.0.1:
+    resolution: {integrity: sha512-N/38archAXa+no/InEmS9sk3HbhmMogOMdvIwG5hkDNL/IGQNrlmAk0IGVnPaTZJhKwdGCvbxXx1PW3e6wNdrg==}
     hasBin: true
     dependencies:
       commander: 10.0.1
