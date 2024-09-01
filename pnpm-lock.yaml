@@ -190,8 +190,8 @@ importers:
         specifier: ^5.24.1
         version: 5.34.1(solid-js@1.8.14)
       '@tauri-apps/api':
-        specifier: '>=2.0.0-beta.0'
-        version: 2.0.0-beta.3
+        specifier: '>=2.0.0-rc.4'
+        version: 2.0.0-rc.4
       '@tauri-apps/plugin-os':
         specifier: 2.0.0-beta.1
         version: 2.0.0-beta.1
@@ -3234,9 +3234,8 @@ packages:
     engines: {node: '>= 18', npm: '>= 6.6.0', yarn: '>= 1.19.1'}
     dev: false
 
-  /@tauri-apps/api@2.0.0-beta.3:
-    resolution: {integrity: sha512-gDSJzKpBs6efXw2ZWqjl9QVNImY5GR5qygXqB7JK4y7prcQInxnTj2ARFR0vD4wuzkrUHGrlIKraiJJPHWJ9vg==}
-    engines: {node: '>= 18', npm: '>= 6.6.0', yarn: '>= 1.19.1'}
+  /@tauri-apps/api@2.0.0-rc.4:
+    resolution: {integrity: sha512-UNiIhhKG08j4ooss2oEEVexffmWkgkYlC2M3GcX3VPtNsqFgVNL8Mcw/4Y7rO9M9S+ffAMnLOF5ypzyuyb8tyg==}
     dev: false
 
   /@tauri-apps/cli-darwin-arm64@2.0.0-beta.5:
